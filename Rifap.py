@@ -1,4 +1,4 @@
-# -*- CREATED BY: DtxdF -*-
+# -*- CREADO POR: CHUCKY 221 JGL -*-
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
@@ -98,16 +98,8 @@ def geo(number):
 		print color.error+"Error: %s" % str(a)
 print """
 	*----------------------------------------*
-	*                                        *
-	*                                        *
-	* [ Retrieving information from a phone  *
-	*   (Rifap) ]                            *
-	*                                        *
-	* [ A script to gather the information   *
-	*   of a telephone, using the api of:    *
-	*        https://numverify.com/ ]        *
-	*                                        *
-	*          [Created by: DtxdF]           *
+	*       PURA GENTE DEL CHAPO ALV         *
+	*     [CREADO POR: CHUCKY 221 JGL]       *
 	*                                        *
 	*----------------------------------------*
 """
